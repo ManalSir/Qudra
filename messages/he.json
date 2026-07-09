@@ -1,0 +1,42 @@
+{
+    "app": {
+      "name": "קודרה",
+      "description": "מערכת לניהול מדריכות וסדנאות"
+    },
+    "auth": {
+      "logout": "התנתקות"
+    },
+    "roles": {
+      "admin": "מנהל"
+    },
+    "navigation": {
+      "dashboard": "לוח בקרה",
+      "instructors": "מדריכות",
+      "schools": "בתי ספר",
+      "workshops": "סדנאות",
+      "schedule": "לוחות זמנים",
+      "timesheets": "שעות עבודה",
+      "courses": "קורסים וחומרים"
+    },
+    "dashboard": {
+      "title": "לוח בקרה",
+      "subtitle": "מבט ראשוני על נתוני המערכת. נחבר את המספרים האלה למסד הנתונים בהמשך.",
+      "currentStepTitle": "השלב הנוכחי",
+      "currentStepDescription": "הכנת המבנה הבסיסי של לוח הניהול לפני חיבור התחברות ומסד נתונים.",
+      "temporaryPageNote": "זהו עמוד זמני. בהמשך נהפוך אותו ללוח בקרה אמיתי עם הרשאות, לוחות זמנים, שעות עבודה וקורסים.",
+      "stats": {
+        "instructors": {
+          "title": "מדריכות",
+          "description": "מספר המדריכות במערכת"
+        },
+        "schools": {
+          "title": "בתי ספר",
+          "description": "מספר בתי הספר הרשומים"
+        },
+        "workshops": {
+          "title": "סדנאות",
+          "description": "מספר הסדנאות הפעילות"
+        }
+      }
+    }
+  }
